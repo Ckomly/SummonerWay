@@ -11,7 +11,7 @@ export default class ApiCaller {
     }
 
     public GetParamsStringQuery(reqParams: any): string {
-        if (reqParams == null)
+        if (Object.keys(reqParams).length == 0)
             return null;
 
         var listGetParams = new ParamsVM.ListGetParam();
