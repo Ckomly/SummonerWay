@@ -1,0 +1,2 @@
+D:\dev\projets_perso\SummonerWay\SummonerWay\SummonerWay\obj\Release\SummonerWay.njsproj.CoreCompileInputs.cache
+D:\dev\projets_perso\SummonerWay\SummonerWay\SummonerWay\bin\Microsoft.NodejsTools.WebRole.dll

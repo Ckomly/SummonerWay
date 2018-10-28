@@ -1,0 +1,3 @@
+D:\dev\projets_perso\SummonerWay\SummonerWay\SummonerWay\obj\Debug\SummonerWay.njsproj.CoreCompileInputs.cache
+D:\dev\projets_perso\SummonerWay\SummonerWay\SummonerWay\bin\Microsoft.NodejsTools.WebRole.dll
+D:\dev\projets_perso\SummonerWay\SummonerWay\SummonerWay\obj\Debug\SummonerWay.njsprojAssemblyReference.cache
